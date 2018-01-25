@@ -588,7 +588,7 @@ taw	処/所*(と)
 tawbari	帳(とばり<戸張り?)(?)
 táwgu	研ぐ/磨ぐ
 táwku	疾く
-táwmu	富む(?)
+tómu	富む(?)
 tawnafáyru	唱える
 tawnari	隣り
 tawra	虎
